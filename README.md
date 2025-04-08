@@ -1,3 +1,3 @@
-# N8 Assets
+# Rhea Assets
 
-Official assets files and logos of N8 programming language.
+Official assets files and logos of Rhea programming language.
